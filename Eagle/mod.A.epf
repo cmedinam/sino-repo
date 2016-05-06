@@ -1,0 +1,33 @@
+[Eagle]
+Version="07 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/EAGLE-7.5.0/lbr/74xx-us.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/atmel.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/crystal.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/discrete.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/linear.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/resistor.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/supply1.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/supply2.lbr"
+UsedLibrary="G:/0 UNI/TEC_PRO_SIS/practica de laboratorio TPSE 15-16/Electronic Proyects 2016/[0002][CARRIER][TEC_PRO_SIS]Severino/20160401R/Modelo A/CMM_Serverino/3 Custom Files/con-subd.lbr"
+UsedLibrary="G:/0 UNI/TEC_PRO_SIS/practica de laboratorio TPSE 15-16/Electronic Proyects 2016/[0002][CARRIER][TEC_PRO_SIS]Severino/20160401R/Modelo A/CMM_Serverino/3 Custom Files/crystal.lbr"
+UsedLibrary="G:/0 UNI/TEC_PRO_SIS/practica de laboratorio TPSE 15-16/Electronic Proyects 2016/[0002][CARRIER][TEC_PRO_SIS]Severino/20160401R/Modelo A/CMM_Serverino/3 Custom Files/diode.lbr"
+UsedLibrary="G:/0 UNI/TEC_PRO_SIS/practica de laboratorio TPSE 15-16/Electronic Proyects 2016/[0002][CARRIER][TEC_PRO_SIS]Severino/20160401R/Modelo A/CMM_Serverino/3 Custom Files/led.lbr"
+UsedLibrary="G:/0 UNI/TEC_PRO_SIS/practica de laboratorio TPSE 15-16/Electronic Proyects 2016/[0002][CARRIER][TEC_PRO_SIS]Severino/20160401R/Modelo A/CMM_Serverino/3 Custom Files/pinhead.lbr"
+UsedLibrary="G:/0 UNI/TEC_PRO_SIS/practica de laboratorio TPSE 15-16/Electronic Proyects 2016/[0002][CARRIER][TEC_PRO_SIS]Severino/20160401R/Modelo A/CMM_Serverino/3 Custom Files/transistor.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 1359 705"
+State=1
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
